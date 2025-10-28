@@ -1,0 +1,11 @@
+numpy
+pandas
+seaborn
+scikit-learn
+dill
+fastapi
+uvicorn
+pydantic
+streamlit
+requests
+-e .
